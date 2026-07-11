@@ -25,9 +25,7 @@ Let’s connect and create something awesome! 🚀
   <a href="https://www.instagram.com/agr1n_" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=instagram&theme=dark" />
   </a>
-  <a href="https://www.linkedin.com/in/agir%C3%AEn-mohammadi-a670143a3" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" />
-  </a>
+
 <a href="https://mail.google.com/mail/?view=cm&fs=1&to=agirin.mohammadi@gmail.com" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=gmail&theme=dark" alt="Send Email" style="border: none;" />
 </a>
