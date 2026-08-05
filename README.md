@@ -34,7 +34,6 @@
 </div>
 </details>
 
-<br>
 <div align="left">
 <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="90%"/>
 </div>
