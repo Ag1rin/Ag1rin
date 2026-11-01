@@ -7,7 +7,7 @@
 <details>
 <summary><b>👋 About Me</b></summary>
    
-- software engineer
+- Software Engineer
 - Flutter Developer
 - Building Android & Web Applications
 - Supabase & FastAPI
