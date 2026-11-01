@@ -30,6 +30,7 @@
 <br>
 <a href="mailto:agirin.mohammadi@gmail.com"><img src="https://skillicons.dev/icons?i=gmail"/></a>
 <a href="https://dev.to/ag1rin"><img src="https://skillicons.dev/icons?i=devto"/></a>
+<a href="https://www.linkedin.com/in/agrin-mohammadi-aa0360448"><img src="https://skillicons.dev/icons?i=linkdin"/></a>
 
 </div>
 </details>
