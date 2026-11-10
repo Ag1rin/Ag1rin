@@ -11,6 +11,7 @@
 - Flutter Developer
 - Building Android & Web Applications
 - Supabase & FastAPI
+- API Engineering
 
 </details>
 </div>
